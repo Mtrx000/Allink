@@ -1,0 +1,13 @@
+C:\Projects\Allink\Allink\bin\Debug\Allink.exe.config
+C:\Projects\Allink\Allink\bin\Debug\Allink.exe
+C:\Projects\Allink\Allink\bin\Debug\Allink.pdb
+C:\Projects\Allink\Allink\bin\Debug\Allink.xml
+C:\Projects\Allink\Allink\obj\Debug\Allink.vbproj.AssemblyReference.cache
+C:\Projects\Allink\Allink\obj\Debug\Allink.vbproj.SuggestedBindingRedirects.cache
+C:\Projects\Allink\Allink\obj\Debug\Allink.Form1.resources
+C:\Projects\Allink\Allink\obj\Debug\Allink.Resources.resources
+C:\Projects\Allink\Allink\obj\Debug\Allink.vbproj.GenerateResource.cache
+C:\Projects\Allink\Allink\obj\Debug\Allink.vbproj.CoreCompileInputs.cache
+C:\Projects\Allink\Allink\obj\Debug\Allink.exe
+C:\Projects\Allink\Allink\obj\Debug\Allink.xml
+C:\Projects\Allink\Allink\obj\Debug\Allink.pdb
